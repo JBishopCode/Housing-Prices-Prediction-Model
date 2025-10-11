@@ -1,0 +1,4 @@
+try to get some version of juypeter working on laptop - got it fixed
+search up ways other people approached this same problem 
+try to read the code/train linear models
+or try a way to graph the data
